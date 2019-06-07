@@ -1,0 +1,17 @@
+Obj/
+UnityGenerated/
+Library/
+Temp/
+**/.DS_Store
+*.csproj
+*.sln
+*.suo
+*.unityproj
+**/.pidb
+*.sublime-*
+*.userprefs
+*.apk
+*.backup
+.vscode/launch.json
+Assets/VSCode/
+VSCode.meta
